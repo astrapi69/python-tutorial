@@ -1,3 +1,4 @@
+# The aim of this exercise is to print out the JSON string with key-value pair "Me" : 800 added to it.
 import json
 
 # fix this function, so it adds the given name
